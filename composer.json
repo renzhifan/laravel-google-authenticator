@@ -1,0 +1,19 @@
+{
+    "name": "renzhifan/laravel-google-authenticator",
+    "description": "Laravel 5 GoogleAuthenticator Package",
+    "authors": [
+        {
+            "name": "renzhifan",
+            "email": "zhifan6797@163.com",
+            "homepage": "https://github.com/renzhifan"
+        }
+    ],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "Renzhifan\\GoogleAuthenticator\\": "src/"
+      }
+    }
+}
